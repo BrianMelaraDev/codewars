@@ -1,4 +1,4 @@
-let mean = (s1 + s2 + s3)/3
+let mean = (s1 + s2 + s3) / 3
   switch(true){
       case (mean >= 90):
         return 'A'
