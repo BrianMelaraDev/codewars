@@ -5,5 +5,5 @@ function uefaEuro2016(teams, scores){
     return `At match ${teams[0]} - ${teams[1]}, ${teams[1]} won!`
   }else{
     return `At match ${teams[0]} - ${teams[1]}, teams played draw.`
-  }
+   }
 }
